@@ -1,0 +1,73 @@
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\Resources\noimage.png
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\Otaku Database.exe
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\Otaku Database.deps.json
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\Otaku Database.runtimeconfig.json
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\Otaku Database.runtimeconfig.dev.json
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\Otaku Database.dll
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\Otaku Database.pdb
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\SQLitePCLRaw.nativelibrary.dll
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\SQLitePCLRaw.core.dll
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\bin\Debug\net5.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\obj\Debug\net5.0-windows\Otaku Database.csproj.AssemblyReference.cache
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\obj\Debug\net5.0-windows\Views\ItemListView.g.cs
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\obj\Debug\net5.0-windows\Views\ItemView.g.cs
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\obj\Debug\net5.0-windows\Views\SearchingTagListView.g.cs
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\obj\Debug\net5.0-windows\Views\TagListView.g.cs
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\obj\Debug\net5.0-windows\Views\TagView.g.cs
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\obj\Debug\net5.0-windows\Otaku Database_Content.g.cs
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\obj\Debug\net5.0-windows\Otaku Database_MarkupCompile.cache
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\obj\Debug\net5.0-windows\Otaku Database_MarkupCompile.lref
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\obj\Debug\net5.0-windows\App.baml
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\obj\Debug\net5.0-windows\Views\ItemListView.baml
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\obj\Debug\net5.0-windows\Views\ItemView.baml
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\obj\Debug\net5.0-windows\Views\SearchingTagListView.baml
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\obj\Debug\net5.0-windows\Views\TagListView.baml
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\obj\Debug\net5.0-windows\Views\TagView.baml
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\obj\Debug\net5.0-windows\Otaku Database.g.resources
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\obj\Debug\net5.0-windows\Otaku Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\obj\Debug\net5.0-windows\Otaku Database.AssemblyInfoInputs.cache
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\obj\Debug\net5.0-windows\Otaku Database.AssemblyInfo.cs
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\obj\Debug\net5.0-windows\Otaku Database.csproj.CoreCompileInputs.cache
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\obj\Debug\net5.0-windows\Otaku Database.csproj.CopyComplete
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\obj\Debug\net5.0-windows\Otaku Database.dll
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\obj\Debug\net5.0-windows\refint\Otaku Database.dll
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\obj\Debug\net5.0-windows\Otaku Database.pdb
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\obj\Debug\net5.0-windows\Otaku Database.genruntimeconfig.cache
+C:\Users\atai\source\repos\Otaku Database\Otaku Database\obj\Debug\net5.0-windows\ref\Otaku Database.dll

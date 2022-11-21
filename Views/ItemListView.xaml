@@ -1,0 +1,24 @@
+﻿<UserControl x:Class="Otaku_Database.Views.ItemListView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:be="clr-namespace:Otaku_Database.Views.Behaviors"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:Otaku_Database.Views"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:v="clr-namespace:Otaku_Database.Views"
+             be:FileDrop.Cmd="{Binding AddItemCmd}"
+             d:DesignHeight="450" d:DesignWidth="800"
+             mc:Ignorable="d">
+    <Grid>
+        <ListBox ItemsSource="{Binding DisplayItemVMs}"
+                 Background="{StaticResource BackGroundSub}"
+                 Style="{StaticResource WrapListbox}"
+                 BorderThickness="0">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <v:ItemView />
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+    </Grid>
+</UserControl>
